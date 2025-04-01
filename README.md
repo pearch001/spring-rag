@@ -103,7 +103,7 @@ The company’s customer support hours are from 9 AM to 5 PM, Monday through Fri
 
 This project is part of a Medium series:
 
-- **Part 1**: [From RAG to Riches: A Spring Guide to Utilizing RAG for Smarter Apps](#)
+- **Part 1**: [From RAG to Riches: A Spring Guide to Utilizing RAG for Smarter Apps](https://medium.com/@kasimoluwasegun/from-rag-to-riches-a-spring-guide-to-utilizing-rag-for-smarter-apps-32021b0f5fe6)
 - **Part 2 (Coming Soon)**: Optimizing RAG with embeddings and scaling with Spring Cloud.
 
 ---
